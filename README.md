@@ -1,16 +1,21 @@
-### Hi there 👋
+### Salve povinho ^-^ 
 
-<!--
-**j1l23/j1l23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Júlio César
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem de JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Saiba minha opinião sobre filmes/séries/animes em 🐦
+
+@RATSU_APENAS (myanimelist)
+
+![](https://media.tenor.com/9NwY3Xem-A8AAAAC/hyakkimaru.gif)
+
+@ratsu (letterboxd)
+
+![](https://media.tenor.com/zvSr1dfTLgMAAAAC/braveheart-freedom.gif)
+
+@cesar_silva_._julio._ (instagram)
+
+![](https://media.tenor.com/ffGtDU9FVdAAAAAC/persona5-joker.gif)
